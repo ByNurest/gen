@@ -1,0 +1,27 @@
+{
+  "token": "",
+  "username": "",
+  "password": "",
+  "port": "3000",
+  "clientId": "1188197589716312104",
+  "guildId": "1144717037000740924",
+  "globalDeploy": false,
+  "status": "Sunucuyu",
+  "website": "https://discord.gg/pX4x4UxmEN",
+  "banner": "https://share.creavite.co/W4Hd9tWwSjz0Lw5F.gif",
+  "footer": "EliBol",
+  "genChannel": "1188411192188878869",
+  "premiumChannel": "1188417165003599923",
+  "genCooldown": "1800",
+  "premiumCooldown": "900 ",
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
